@@ -17,9 +17,7 @@ of iptables. This project covers the following topics:
         <li>Using Iptables to set up firewall rules</li>
         <li>Various applications of IPtables</li>
   
-    </ul>
-
-<br />
+  </ul>
 
 
 <h2>Languages and Utilities Used</h2>
