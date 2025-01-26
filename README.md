@@ -30,6 +30,14 @@ of iptables. This project covers the following topics:
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-<embed src a href="https://drive.google.com/file/d/1uCxoX4KH4VHQnJwIdMl1H1Zu7jlkE_vg/view" alt=""></a> </embed>
+
+- <b>Task 1: Implementing a Simple Firewall</b>
+- <b>Task 1.A: Implement a Simple Kernel Module</b>
+- <b>Task 1.B: Implement a Simple Firewall Using Netfilter</b>
+- <b>Task 2: Experimenting with Stateless Firewall Rules</b>
+- <b>Task 2.A: Protecting the Router</b>
+- <b>Task 2.B: Protecting the Internal Network</b>
+- <b>Task 2.C: Protecting Internal Servers</b>
+- <b>Task 3.A: Experiment with the Connection Tracking</b>
 
 
