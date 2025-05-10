@@ -1,4 +1,4 @@
-# Implementation and Configuration of a Network Access Control Gateway
+# Setting Up a Traffic Control Device in a Network Environment
 
 ## 📌 Description  
 The learning objective of this lab is two-fold:  
