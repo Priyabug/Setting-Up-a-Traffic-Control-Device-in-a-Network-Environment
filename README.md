@@ -1,4 +1,4 @@
-# Implementation and Setting Up a Single Firewall on a Network
+# Implementation and Configuration of a Network Access Control Gateway
 
 ## 📌 Description  
 The learning objective of this lab is two-fold:  
