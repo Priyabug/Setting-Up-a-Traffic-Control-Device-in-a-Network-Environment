@@ -4,7 +4,8 @@
 The learning objective of this lab is two-fold:  
 
 1. **Understanding how firewalls work**  
-2. **Setting up a simple firewall for a network**  
+2. **Setting up a simple firewall for a network**
+3. **How Load Balncers distribute traffic**
 
  A **stateless packet-filtering firewall** is implemented, which inspects packets and decides whether to **drop** or **forward** them based on firewall rules. Through this implementation task, we will be able to grasp the  **basic concepts of firewall functionality**.  
 
@@ -15,7 +16,9 @@ Linux has a built-in firewall based on **Netfilter**, known as **iptables**. Stu
 - **Netfilter**  
 - **Loadable Kernel Module**  
 - **Using iptables to set up firewall rules**  
-- **Various applications of iptables**  
+- **Various applications of iptables**
+- **LDAP for Centralized authentication**
+- **NFS as a shared resource**
 
 ---
 
