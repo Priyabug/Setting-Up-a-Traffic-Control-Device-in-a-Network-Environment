@@ -46,6 +46,26 @@ Linux has a built-in firewall based on **Netfilter**, known as **iptables**. Stu
 #### 🔹 Task 3.A:Experiment with the Connection Tracking 
 #### 🔹 Task 3.B:Setting Up a Stateful Firewall
 
+Task 4: Limiting Network Traffic
+Task 5: Load Balancing
+
+
+## 🔚 Conclusion
+
+This lab provided **hands-on experience** with fundamental firewall concepts by implementing a **stateless packet-filtering firewall** and configuring firewall rules using Linux's `iptables`.
+
+Through this exercise, we explored:
+
+- How **packet inspection** and **rule-based filtering** safeguard a network from unauthorized access.
+- The integral role of **Netfilter** in the Linux kernel.
+- Real-world applications of **firewall rule management**.
+
+This foundational understanding sets the stage for delving into more **advanced topics in network security**, firewall architectures, and dynamic rule-based threat mitigation.
+
+
+
+
+
 
 ---
 
