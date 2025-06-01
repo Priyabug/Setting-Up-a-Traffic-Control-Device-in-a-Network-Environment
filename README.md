@@ -46,9 +46,9 @@ Linux has a built-in firewall based on **Netfilter**, known as **iptables**. Stu
 #### 🔹 Task 3.A:Experiment with the Connection Tracking 
 #### 🔹 Task 3.B:Setting Up a Stateful Firewall
 
-#### 🔹 Task 4: Limiting Network Traffic
+## 🚦 Task 4: Limiting Network Traffic
 
-#### 🔹 Task 5: Load Balancing
+## ⚖️ Task 5: Load Balancing
 
 
 ## 🔚 Conclusion
